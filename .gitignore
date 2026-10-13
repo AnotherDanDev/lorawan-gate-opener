@@ -1,0 +1,16 @@
+# Device credentials - never commit
+secrets.h
+*.key
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Editors / OS
+.vscode/
+.vs/
+.DS_Store
+Thumbs.db
+desktop.ini
